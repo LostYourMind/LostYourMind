@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-난 대학생인데요.....개발자를 꿈꾸고 있는데요.....백엔드 개발자가 목표인데요.....
-언제 퇴근할 수 있을까요....얼른 먹고 살 궁리를 해야해요....인생은 뭘까요....슬슬 정신 나갈꺼같아요....😥😥
+
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
