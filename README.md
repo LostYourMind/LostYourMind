@@ -39,17 +39,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
-    </div>
-
-    <!-- DevTools -->
-    <p><strong>DevTools</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"> 
-        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"> 
-        <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=black"> 
-        <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white">
-    </div>
-    
+    </div>    
     <br>
 </div>
 
