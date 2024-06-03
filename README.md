@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
+    
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
@@ -38,8 +40,16 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
     </div>
-    <!-- DevTool -->
-    <p><strong>DevTool</strong></p>
+
+    <!-- DevTools -->
+    <p><strong>DevTools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"> 
+        <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=black"> 
+        <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white">
+    </div>
+    
     <br>
 </div>
 
