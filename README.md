@@ -53,21 +53,18 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostYourMind&show_icons=true&theme=radical)
+![LostYourMind's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostYourMind&include_all_commits=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostYourMind&layout=compact)
 
 
 
-## 📞 Contact 📞
+## 📱 Contact 📱
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
+    <a href="mailto:blackbox1774@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/kwonbi_">
+    <a href="https://www.instagram.com/ratel_root">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
