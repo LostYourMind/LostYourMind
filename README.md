@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- <a href="https://www.notion.so/875c10dcfed24240a109bf0345cc6521?v=2b2693bd502548e1b34fc00001ddfc8d" target="_blank"><img src="https://img.shields.io/badge/00000?style=plastic&logo=Notion&logoColor=ffffff"/></a>
+ <a href="https://www.notion.so/875c10dcfed24240a109bf0345cc6521?v=2b2693bd502548e1b34fc00001ddfc8d" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=Notion&logoColor=ffffff"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostYourMind&show_icons=true&theme=radical)
 
