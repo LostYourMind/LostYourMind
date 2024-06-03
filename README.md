@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLostYourMind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLostYourMind&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ## 🔨 Once I've used 🔨
@@ -40,23 +40,28 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
     </div>
-    <!-- Frontend -->
+    <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
         <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
     </div>    
-    <!-- Others -->
+    <!-- Dev Language -->
     <p><strong>Dev Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
-</div><br>
+    </div>
+    <!-- Other -->
+    <p><strong>Other</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white">
+    </div><br>
 </div>
 
 
-![LostYourMind's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostYourMind&include_all_commits=true&show_icons=true&theme=radical)
+![LostYourMind's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostYourMind&include_all_commits=true&show_icons=true&theme=shadow_red)
 
 ## My Most Use Langs is.....
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostYourMind&layout=compact)
