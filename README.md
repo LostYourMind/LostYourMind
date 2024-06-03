@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <!-- Other -->
     <p><strong>Other</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
     </div><br>
 </div>
 
