@@ -11,7 +11,7 @@
     <!-- FrameWork -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
+        <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     </div>
