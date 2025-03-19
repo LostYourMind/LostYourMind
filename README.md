@@ -15,13 +15,11 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     </div>
-    
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>    
-    
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
@@ -35,11 +33,9 @@
         <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
     </div>
-    
     <!-- Tool -->
     <p><strong> Tool </strong></p>
     <div>    </div>
-    
     <!-- Other -->
     <p><strong>Other</strong></p>
     <div>
