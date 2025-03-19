@@ -36,8 +36,8 @@
     <!-- Tool -->
     <p><strong> Tool </strong></p>
     <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" width="30" style="margin-right : 100px;">
-    <img src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fill/w_238,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png" width="21">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" width="30" style="margin-right : 30px;">
+    <img src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fill/w_238,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png" width="30" style="margin-right : 30px;">
     </div>
     <!-- Other -->
     <p><strong>Other</strong></p>
