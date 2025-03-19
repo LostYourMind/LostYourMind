@@ -9,7 +9,7 @@
 ## 💻 Once I've used 💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- FrameWork -->
-    <p><strong>Backend</strong></p>
+    <p><strong>FrameWork</strong></p>
     <div>
         <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
