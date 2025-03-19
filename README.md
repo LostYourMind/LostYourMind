@@ -14,6 +14,7 @@
         <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
         <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -32,6 +33,11 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+    </div>
+    <!-- Tool -->
+    <p><strong>Tool</strong>stong></p>
+    <div>
+        
     </div>
     <!-- Other -->
     <p><strong>Other</strong></p>
@@ -57,9 +63,6 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:blackbox1774@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/ratel_root">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div><br>
 
