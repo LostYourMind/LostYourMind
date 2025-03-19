@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
     </div>
     <!-- Tool -->
-    <p><strong>Tool</strong>stong></p>
+    <p><strong> Tool </strong></p>
     <div>    </div><br>
     
     <!-- Other -->
